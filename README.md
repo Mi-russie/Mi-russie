@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mi-russie
 - 👀 I’m interested in learning coding 
 - 🌱 I’m currently learning html, css, python
-- 💞️ I’m looking to collaborate on: I'm starting, no idea yet
+- 💞️ I’m looking to collaborate on: I'm starting
 - 📫 How to reach me: michael21live@gmail.com 
 
 <!---
